@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/admin_app/static/css/main.2010f350.css",
-    "main.js": "/admin_app/static/js/main.3df26ba7.js",
+    "main.js": "/admin_app/static/js/main.1c5ea7a6.js",
     "static/js/453.1c13788b.chunk.js": "/admin_app/static/js/453.1c13788b.chunk.js",
     "static/media/product.png": "/admin_app/static/media/product.bb8e49f123685e6aa018.png",
     "static/media/manonline.png": "/admin_app/static/media/manonline.6546aeb0d4e66aecc1ab.png",
@@ -16,11 +16,11 @@
     "static/media/hotel.png": "/admin_app/static/media/hotel.e3c32204f56801016dc7.png",
     "index.html": "/admin_app/index.html",
     "main.2010f350.css.map": "/admin_app/static/css/main.2010f350.css.map",
-    "main.3df26ba7.js.map": "/admin_app/static/js/main.3df26ba7.js.map",
+    "main.1c5ea7a6.js.map": "/admin_app/static/js/main.1c5ea7a6.js.map",
     "453.1c13788b.chunk.js.map": "/admin_app/static/js/453.1c13788b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2010f350.css",
-    "static/js/main.3df26ba7.js"
+    "static/js/main.1c5ea7a6.js"
   ]
 }
