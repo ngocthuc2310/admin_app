@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ngocthuc2310/admin_app/static/css/main.2010f350.css",
-    "main.js": "/ngocthuc2310/admin_app/static/js/main.b6d81163.js",
-    "static/js/453.1c13788b.chunk.js": "/ngocthuc2310/admin_app/static/js/453.1c13788b.chunk.js",
-    "static/media/product.png": "/ngocthuc2310/admin_app/static/media/product.bb8e49f123685e6aa018.png",
-    "static/media/manonline.png": "/ngocthuc2310/admin_app/static/media/manonline.6546aeb0d4e66aecc1ab.png",
-    "static/media/dola.png": "/ngocthuc2310/admin_app/static/media/dola.d1603d0cbb7682e732c2.png",
-    "static/media/chat.png": "/ngocthuc2310/admin_app/static/media/chat.554eee3cd57fec792268.png",
-    "static/media/man.png": "/ngocthuc2310/admin_app/static/media/man.ba3e9327f074cac4e49e.png",
-    "static/media/transaction.png": "/ngocthuc2310/admin_app/static/media/transaction.f9d9cd36368bb3ef55c7.png",
-    "static/media/order.png": "/ngocthuc2310/admin_app/static/media/order.963019bc99c945853fb2.png",
-    "static/media/User.png": "/ngocthuc2310/admin_app/static/media/User.21df6005b8d5d1c7abcd.png",
-    "static/media/users.png": "/ngocthuc2310/admin_app/static/media/users.a2c3e9e4512cd01e55d8.png",
-    "static/media/khauhao.png": "/ngocthuc2310/admin_app/static/media/khauhao.d5691b4f5d95063e0da1.png",
-    "static/media/hotel.png": "/ngocthuc2310/admin_app/static/media/hotel.e3c32204f56801016dc7.png",
-    "index.html": "/ngocthuc2310/admin_app/index.html",
-    "main.2010f350.css.map": "/ngocthuc2310/admin_app/static/css/main.2010f350.css.map",
-    "main.b6d81163.js.map": "/ngocthuc2310/admin_app/static/js/main.b6d81163.js.map",
-    "453.1c13788b.chunk.js.map": "/ngocthuc2310/admin_app/static/js/453.1c13788b.chunk.js.map"
+    "main.css": "/admin_app/static/css/main.2010f350.css",
+    "main.js": "/admin_app/static/js/main.ade80696.js",
+    "static/js/453.1c13788b.chunk.js": "/admin_app/static/js/453.1c13788b.chunk.js",
+    "static/media/product.png": "/admin_app/static/media/product.bb8e49f123685e6aa018.png",
+    "static/media/manonline.png": "/admin_app/static/media/manonline.6546aeb0d4e66aecc1ab.png",
+    "static/media/dola.png": "/admin_app/static/media/dola.d1603d0cbb7682e732c2.png",
+    "static/media/chat.png": "/admin_app/static/media/chat.554eee3cd57fec792268.png",
+    "static/media/man.png": "/admin_app/static/media/man.ba3e9327f074cac4e49e.png",
+    "static/media/transaction.png": "/admin_app/static/media/transaction.f9d9cd36368bb3ef55c7.png",
+    "static/media/order.png": "/admin_app/static/media/order.963019bc99c945853fb2.png",
+    "static/media/User.png": "/admin_app/static/media/User.21df6005b8d5d1c7abcd.png",
+    "static/media/users.png": "/admin_app/static/media/users.a2c3e9e4512cd01e55d8.png",
+    "static/media/khauhao.png": "/admin_app/static/media/khauhao.d5691b4f5d95063e0da1.png",
+    "static/media/hotel.png": "/admin_app/static/media/hotel.e3c32204f56801016dc7.png",
+    "index.html": "/admin_app/index.html",
+    "main.2010f350.css.map": "/admin_app/static/css/main.2010f350.css.map",
+    "main.ade80696.js.map": "/admin_app/static/js/main.ade80696.js.map",
+    "453.1c13788b.chunk.js.map": "/admin_app/static/js/453.1c13788b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2010f350.css",
-    "static/js/main.b6d81163.js"
+    "static/js/main.ade80696.js"
   ]
 }
