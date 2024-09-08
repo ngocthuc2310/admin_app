@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ngocthuc2310/admin_app/static/css/main.2010f350.css",
-    "main.js": "/ngocthuc2310/admin_app/static/js/main.2e4d2e72.js",
+    "main.js": "/ngocthuc2310/admin_app/static/js/main.b6d81163.js",
     "static/js/453.1c13788b.chunk.js": "/ngocthuc2310/admin_app/static/js/453.1c13788b.chunk.js",
     "static/media/product.png": "/ngocthuc2310/admin_app/static/media/product.bb8e49f123685e6aa018.png",
     "static/media/manonline.png": "/ngocthuc2310/admin_app/static/media/manonline.6546aeb0d4e66aecc1ab.png",
@@ -16,11 +16,11 @@
     "static/media/hotel.png": "/ngocthuc2310/admin_app/static/media/hotel.e3c32204f56801016dc7.png",
     "index.html": "/ngocthuc2310/admin_app/index.html",
     "main.2010f350.css.map": "/ngocthuc2310/admin_app/static/css/main.2010f350.css.map",
-    "main.2e4d2e72.js.map": "/ngocthuc2310/admin_app/static/js/main.2e4d2e72.js.map",
+    "main.b6d81163.js.map": "/ngocthuc2310/admin_app/static/js/main.b6d81163.js.map",
     "453.1c13788b.chunk.js.map": "/ngocthuc2310/admin_app/static/js/453.1c13788b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2010f350.css",
-    "static/js/main.2e4d2e72.js"
+    "static/js/main.b6d81163.js"
   ]
 }
